@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668950427548",
+    "firebase_url": "https://ten-news-5ced0.firebaseio.com",
+    "project_id": "ten-news-5ced0",
+    "storage_bucket": "ten-news-5ced0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668950427548:android:544fbc53ef98562225ba59",
+        "android_client_info": {
+          "package_name": "com.tennews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668950427548-tsfp1brgb8ei1o49vvmjl6lg5qm9ofm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH5W1_fg7VOonjOkslBf22y9Tf5xAp_7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668950427548-tsfp1brgb8ei1o49vvmjl6lg5qm9ofm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
