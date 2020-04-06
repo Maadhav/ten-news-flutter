@@ -1,16 +1,17 @@
-# tennews
+# [TEN News V 2.0](https://play.google.com/store/apps/details?id=com.tennews) Devloped by Maadhav Sharma
 
-A new Flutter project.
+Frustrated of watching a ton of news to update your self and still not getting what you were finding? Hence we have created TEN News which will update you with top 10 stories of hour. Our app has simple concept, we provide the best and latest trending and important news to the user.
 
-## Getting Started
+Key features of 'TEN News':
 
-This project is a starting point for a Flutter application.
+► Only the Top 10 news of the moment
+► News from the best sources in the world
+► No irritating ads
+► Share any news with your friends and family with a single click
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Note: 'TEN News' is in it's Beta Stage so the app will be getting major updates.
+If you find any bug or want to give your valuable feedback do write it in the Feedback section of the app.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[[ten news](https://cdn.dribbble.com/users/4215982/screenshots/7400514/media/e60a04b83003168ee5a04884f76efcca.png)](https://play.google.com/store/apps/details?id=com.tennews)
+
