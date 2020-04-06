@@ -13,5 +13,5 @@ Key features of 'TEN News':
 Note: 'TEN News' is in it's Beta Stage so the app will be getting major updates.
 If you find any bug or want to give your valuable feedback do write it in the Feedback section of the app.
 
-[ten news](https://cdn.dribbble.com/users/4215982/screenshots/7400514/media/e60a04b83003168ee5a04884f76efcca.png)(https://play.google.com/store/apps/details?id=com.tennews)
+![ten news](https://cdn.dribbble.com/users/4215982/screenshots/7400514/media/e60a04b83003168ee5a04884f76efcca.png)(https://play.google.com/store/apps/details?id=com.tennews)
 
